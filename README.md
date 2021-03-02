@@ -1,2 +1,2 @@
 # faq-react
-HOsted the website in another brach called gh-pages
+Hosted the website in another brach called gh-pages
